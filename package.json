@@ -6,6 +6,10 @@
   "scripts": {
     "start": "nodemon app.js"
   },
+  "resolutions": {
+    "wrap-ansi": "7.0.0",
+    "string-width": "4.1.0"
+  },
   "dependencies": {
     "archiver": "^7.0.1",
     "cheerio": "^1.0.0-rc.12",
